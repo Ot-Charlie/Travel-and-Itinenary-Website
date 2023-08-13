@@ -1,0 +1,115 @@
+.body{
+    font-size: 20px;
+    background-color: bisque;
+    margin: 20px 15px;
+    display: grid;
+    justify-content: center;
+
+}
+
+.travel-logos{
+    display: flex;
+    padding: 0;
+    margin: 1px;
+    justify-content: space-between;
+    
+}
+
+.dep{
+    background-color: rgb(228, 151, 8);
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+    margin: 20px 15px;
+
+}
+
+.car{
+    background-color: rgb(228, 151, 8);
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+    margin: 20px 15px;
+}
+
+.hotel{
+    background-color: rgb(228, 151, 8);
+    border-radius: 10px;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    margin: 20px 15px;
+}
+
+
+.meeting{
+    background-color: rgb(228, 151, 8);
+    border-radius: 10px;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    margin: 20px 15px;
+}
+
+.returning{
+    background-color: rgb(228, 151, 8);
+    border-radius: 10px;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    margin: 20px 15px;
+}
+
+.form{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    width: 100%;
+}
+
+.form-group{
+    margin: 20px 15px;
+
+}
+
+.form-group label{
+    width: 450px;
+    display: block;
+}
+
+.form-group input{
+    width: 100%;
+    padding: 5px 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+
+
+.form{
+    width: 200%;
+    margin-top: 20px;
+}
+.send-btn button{
+    width: 30%;
+    background-color: rgb(228, 151, 8);
+    padding: 15px;
+    border: 1px;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+
+button{
+    align-items: center;
+    justify-items: center;
+    
+    
+}
+
+@media(max-width: 425px){
+    
+}
